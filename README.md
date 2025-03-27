@@ -28,6 +28,22 @@ The first player to reach the opposite perimeter line wins the game.
 
 Enjoy playing Quoridor! 🎉  
 
-## Known limitations
+## 📸 Screenshots 
 
+## Home screen
+![](images/img0.png)
+
+## Start of the game
+![](images/img1.png)
+
+## Wall placement
+![](images/img2.png)
+
+## Victory screen
+![](images/img3.png)
+
+
+## Known limitations
 Unfortunatelly the application runs really poorly on the debugger, but it has no problem with the actual board as you can see from the video.
+
+[Video of the real board (in italian)](https://drive.google.com/file/d/1lPzKHBegTp0OaUKRqONHmouG65DGNGvD/view?usp=sharing)
