@@ -1,0 +1,38 @@
+# Ignora file temporanei di compilazione
+*.o
+*.d
+*.crf
+*.scvd
+*.iex
+*.lst
+*.bak
+*.dep
+*.map
+*.axf
+*.elf
+*.hex
+
+# Ignora file di log
+*.log
+*.tmp
+
+# Ignora cartelle di output di Keil
+Objects/
+Listings/
+
+# Ignora file di log e impostazioni personali
+JLinkLog.txt
+JLink Regs CM3.txt
+JLinkSettings.ini
+sample.build_log.htm
+sample.htm
+sample.lnp
+sample.plg
+sample.tra
+sample.uvguix.*
+
+# Ignora eventuali altri file generati
+*.lst
+*.bak
+*.dep
+*.map
